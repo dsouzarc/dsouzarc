@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**dsouzarc/dsouzarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name's Ryan and I'm a backend Software Engineer at Compass; I've worked at Facebook, The New York Times, and Symphony Communications before.
 
-Here are some ideas to get you started:
+I enjoy developing in Python, Java, Objective-C, and Swift, and love trying out new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm based out of NYC (Manhattan) and can be reached by:
+
+**email:** dsouzarc@gmail.com
+
+**iMessage/phone:** +1 (609) 915 - 4930
+
+**Facebook:** facebook.com/dsouzarc
+
