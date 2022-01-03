@@ -12,4 +12,4 @@ I'm based out of NYC (Manhattan) and can be reached by:
 
 **Facebook:** facebook.com/dsouzarc
 
-![Views](https://dynamic-badges.maxalpha.repl.co/views?id=Username.RepositoryName&style=for-the-badge&color=blue)
+![Views](https://dynamic-badges.maxalpha.repl.co/views?id=Username.RepositoryName&style=for-the-badge&color=black)
