@@ -11,3 +11,8 @@ I'm based out of NYC (Manhattan) and can be reached by:
 - **iMessage/phone:** +1 (609) 915 - 4930
 
 - **Facebook:** facebook.com/dsouzarc
+
+--- 
+
+![Views](https://dynamic-badges.maxalpha.repl.co/views?id=Username.RepositoryName&style=for-the-badge&color=black)
+
