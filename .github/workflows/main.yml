@@ -28,17 +28,21 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
+
+      # store build time (ISO 8601 format) for commit message
+      - name: Store build timestamp
+        run: echo "BUILD_TIME=$(date -u +'%Y-%m-%dT%H:%M:%SZ')" >> $GITHUB_ENV
           
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake *.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
           author: Ryan Dsouza <dsouzarc@gmail.com>
           committer: Ryan Dsouza <dsouzarc@gmail.com>
-          commit_message: Latest contribution
+          commit_message: Github Contributions as of $BUILD_TIME
+          verbose: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
