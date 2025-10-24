@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-My name's Ryan and I'm a backend Software Engineer at Compass; I've worked at Facebook, The New York Times, and Symphony Communications before.
+My name's Ryan and I'm a backend Software Engineer at Microsoft; I've worked at Compass, Facebook, The New York Times, and Symphony Communications before.
 
-I enjoy developing in Python, Java, Objective-C, and Swift, and love trying out new technologies.
+I enjoy developing in Java, Python, Objective-C, and Swift, and love trying out new technologies.
 
-I'm based out of NYC (Manhattan) and can be reached by:
+I'm based out of NYC and can be reached by:
 
 - **email:** dsouzarc@gmail.com
-
-- **iMessage/phone:** +1 (609) 915 - 4930
 
 - **Facebook:** facebook.com/dsouzarc
 
