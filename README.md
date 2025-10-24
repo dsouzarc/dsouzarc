@@ -6,7 +6,7 @@ I'm based out of NYC and can be reached by:
 
 - **Email:** dsouzarc@gmail.com
 
-- **Facebook:** facebook.com/dsouzarc
+- **LinkedIn:** [linkedin.com/in/dsouzarc](https://www.linkedin.com/in/dsouzarc)
 
 ---
 
