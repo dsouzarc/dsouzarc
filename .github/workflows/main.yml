@@ -42,7 +42,7 @@ jobs:
           build_dir: dist
           author: Ryan Dsouza <dsouzarc@gmail.com>
           committer: Ryan Dsouza <dsouzarc@gmail.com>
-          commit_message: Github Contributions as of $BUILD_TIME
+          commit_message: Github Contributions as of ${{ env.BUILD_TIME }}
           verbose: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
